@@ -7,3 +7,4 @@
 #### __toString() ép kiểu chuỗi thành String 
 #### so sánh == sẽ ép kiểu bên tay trái thành 1 chuỗi để so sánh còn nếu dùng === thì sẽ so sánh hai bên với nhau
 #### ........
+#### Hàm băm không thể truy suất ngược lại (md5)
