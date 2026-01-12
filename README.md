@@ -15,3 +15,4 @@
 #### Tìm theo các magic method được gọi rồi try vấn xem có làm gì được tiếp không
 #### Tìm theo các hàm nguy hiểm (vd: system, eval, readfile,....) rồi truy ngược lại xem có gọi được đến dòng code đó không
 #### Cách tìm function -> (vd: "close(" )
+#### Tìm từ magic method đổ lên
