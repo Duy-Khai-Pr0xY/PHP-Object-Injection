@@ -7,6 +7,7 @@
 #### __toString() ép kiểu chuỗi thành String 
 #### so sánh == sẽ ép kiểu theo mức độ ưu tiên để so sánh còn nếu dùng === thì sẽ so sánh hai bên với nhau
 #### PHP đối xử với object như 1 hàm __toString() 
+#### untrustedata rơi vào hàm unserialize vbaf ngược lại
 #### ........
 #### Hàm băm không thể truy suất ngược lại (md5)
 #### require = include (read and excute)
