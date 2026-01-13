@@ -16,3 +16,4 @@
 #### Tìm theo các hàm nguy hiểm (vd: system, eval, readfile,....) rồi truy ngược lại xem có gọi được đến dòng code đó không
 #### Cách tìm function -> (vd: "close(" )
 #### Tìm từ magic method đổ lên
+#### https://github.com/ambionics/phpggc/tree/master/gadgetchains/Guzzle/RCE/1 
