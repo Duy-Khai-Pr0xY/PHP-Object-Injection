@@ -1,4 +1,4 @@
-# PHP-Object-Injection
+# PHP-Object-Injection (Insecure deserialization)
 # Magic method
 #### __construct() tự động khởi tạo object
 #### __destruct() gọi khi object bị hủy 
